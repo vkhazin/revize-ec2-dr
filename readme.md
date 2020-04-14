@@ -30,6 +30,6 @@
 
 ## Acceptance Criteria
 
-* Function can use python or node.js
-* Nothing is hard-coded in the function code use environment variables instead
-* Function should write its errors to CloudWatch events for troubleshooting purpose
+* Function to use python 3.8 runtime
+* Nothing is hard-coded in the function code, use environment variables instead
+* Function should write its errors to CloudWatch log for troubleshooting purpose
